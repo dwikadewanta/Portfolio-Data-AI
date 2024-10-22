@@ -13,10 +13,19 @@ The dataset contained a few columns as follows:
 Special thanks to **"Waqar Ali"** for providing me the dataset from Kaggle.
 
 ## Dataset Preview
+<img src=https://github.com/dwikadewanta/Portfolio-Data-AI/blob/main/Net%20Worth%20Wealthiest%20People%20Dashboard/dataset%20preview.png>
 
 
 ## Dashboard Preview
+<img src=https://github.com/dwikadewanta/Portfolio-Data-AI/blob/main/Net%20Worth%20Wealthiest%20People%20Dashboard/dashboard%20preview.png>
 
+* Dashboard created with separated name, industry, and company column for each chart.
+* Slicer used for showing the chart in a certain country.
+* The richest industry by net worth is technology industry.
+* The richest company by net worth is Walmart.
+* Amancio Ortega is the richest among others by net worth.
 
 ## Resource
 Dataset : https://www.kaggle.com/datasets/waqi786/1000-richest-people-in-the-world
+
+Dashboard File : https://github.com/dwikadewanta/Portfolio-Data-AI/blob/main/Net%20Worth%20Wealthiest%20People%20Dashboard/Net%20Worth%20Wealthiest%20People.xlsx
